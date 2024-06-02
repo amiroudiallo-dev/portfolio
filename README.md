@@ -8,7 +8,7 @@ Hello, i'am a student at Holberton in certification to Full-Stack Software Engin
 1. HTML
 2. Css
 3. JavaScript
-4, Gatsby
+4. Gastby
 
 
 ## Development Architecture
